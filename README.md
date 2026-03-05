@@ -1,75 +1,92 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
-
-# Hi 👋 I'm Esraa Gamal
-
-### Backend & Desktop Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=700&lines=Hi+I'm+Esraa+Gamal;Backend+Developer;Desktop+Application+Developer;C%2B%2B+%7C+C%23+%7C+SQL+Server;Always+Learning+New+Things" />
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-* 💻 I'm currently learning **Backend Development**
-* 🖥 I also build **Desktop Applications**
-* 🔧 I mainly work with **C++ , C# , SQL Server**
-* 🌱 Currently improving my **OOP , Databases , and System Design**
-* 📂 I share my projects on **GitHub**
-
----
-
-## 🚀 Technologies & Tools
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
-
-![CSharp](https://img.shields.io/badge/C%23-239120?style=flat\&logo=c-sharp\&logoColor=white)
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat\&logo=microsoft-sql-server\&logoColor=white)
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat\&logo=git\&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat\&logo=visual-studio\&logoColor=white)
+* 💻 Backend Developer in progress
+* 🖥 Desktop Application Developer
+* 🔧 Working mainly with **C++ and C#**
+* 🗄 Working with **SQL Server Databases**
+* 🌱 Currently learning **.NET and Backend Architecture**
+* 📚 Passionate about **OOP and building real systems**
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Tech Stack
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoft-sql-server\&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge\&logo=visual-studio\&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=esraa-gamal1&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraa-gamal1&layout=compact&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 📚 Currently Learning
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=esraa-gamal1&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://github.com/YOUR_USERNAME//esraa-gamal1/blob/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
 
 * Advanced **C++**
 * **C# .NET**
+* **ASP.NET Core**
 * **Database Design**
 * **Backend Architecture**
 
 ---
 
-## 💡 Projects
+# 💡 Projects
 
-Some of the projects I'm working on:
+Some projects I'm working on:
 
-* 🏦 **Bank System**
+* 🏦 **Bank Management System**
 * 👤 **User Management System**
 * 📚 **Library Management System**
 
 ---
 
-## ⚡ Fun Fact
+# ⚡ Fun Fact
 
 Coding is like solving puzzles 🧩 — and I enjoy every piece of it.
 
----
 
