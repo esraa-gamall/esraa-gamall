@@ -1,4 +1,10 @@
+
+
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hello+Esraa;Welcome+to+my+GitHub;Backend+Developer" />
+
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=700&lines=Hi+I'm+Esraa+Gamal;Backend+Developer;.Net+Developer;Desktop+Application+Developer+;C%2B%2B+%7C+C%23+%7C+SQL+Server;Always+Learning+New+Things" />
 
