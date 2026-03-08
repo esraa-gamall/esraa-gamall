@@ -48,6 +48,20 @@
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=esraa-gamal&theme=github_dark&show_icons=true&layout=compact&langs_count=8"  alt="Top Languages" />
 </div>
 
+
+# 📊 GitHub Metrics Dashboard
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esraa-gamal1&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esraa-gamal1&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=esraa-gamal1&theme=tokyonight"/>
+
+</p>
+
+
 # 🐍 Contribution Snake
 <div align="center">
 
