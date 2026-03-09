@@ -15,11 +15,13 @@
 
 <img width="30%" align="right" src="https://github.com/user-attachments/assets/46bfd91c-3b53-4429-abb4-0165a03b693c" alt="coding-animation" />
 
-- 💬 Ask me about **C++, OOP, Data Structures, Algorithms & Problem Solving**
-- 🌱 I’m currently learning **Advanced C#, .NET Framework, SQL Server, Desktop & Web Dev**
-- ❤️ I love coding and exploring new tools
-- ⚡ Fun fact: **I love solving challenging problems 💡**
-- 📍 Following Roadmap [https://programmingadvices.com/p/roadmap](https://programmingadvices.com/p/roadmap)
+- 💬 Ask me about **C++, OOP, Data Structures, Algorithms, and Problem Solving**
+- 🌱 Currently learning **Advanced C#, .NET Framework, SQL Server, Desktop & Web Development**
+- 🎯 Goal: Becoming a professional **Software Developer**
+- ❤️ Passionate about coding and continuously exploring new technologies
+- ⚡ Fun fact: **I enjoy solving complex and challenging problems 💡**
+- 📍 Following this roadmap to improve my development skills:  
+  https://programmingadvices.com/p/roadmap
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Connect with me:** ️
 
@@ -76,19 +78,18 @@
 
 ![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<!-- CONTRIBUTION SNAKE -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/esraa-gamall/esraa-gamall/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/vineetkumar02/vineetkumar02/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/esraa-gamall/esraa-gamall/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/vineetkumar02/vineetkumar02/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/esraa-gamall/esraa-gamall/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/vineetkumar02/vineetkumar02/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
