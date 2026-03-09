@@ -1,5 +1,5 @@
 <!-- HEADER / WELCOME -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Hello Coders%20👋,%20I'm%20Esraa%20Gamal&fontSize=30&fontAlignY=80&color=gradient&customColorList=16" alt="HelloCoders 👋, I'm Esraa Gamal" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&text=HelloCoders%20👋,%20I'm%20Esraa%20Gamal&fontSize=30&fontAlignY=80&color=gradient&customColorList=16" alt="HelloCoders 👋, I'm Esraa Gamal" />
 
 <hr></hr>
 
