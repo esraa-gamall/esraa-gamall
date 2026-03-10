@@ -61,9 +61,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=esraa-gamall&show_icons=true&theme=github_dark" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=esraa-gamall&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraa-gamall&layout=compact&theme=github_dark" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraa-gamall&layout=compact&theme=github_dark&langs_count=8" height="170"/>
 
 </p>
 # 📊 GitHub Metrics Dashboard
