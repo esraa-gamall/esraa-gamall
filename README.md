@@ -56,18 +56,15 @@
 ---
 
 
-# 📊 GitHub Metrics Dashboard
-
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esraa-gamall&theme=tokyonight" width="90%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=esraa-gamall&show_icons=true&theme=tokyonight" width="90%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esraa-gamall&theme=tokyonight" width="45%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=esraa-gamall&theme=tokyonight" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraa-gamall&layout=compact&theme=tokyonight" width="45%"/>
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=esraa-gamall&theme=tokyonight" width="45%"/>
 
 </p>
-
   
 
 
