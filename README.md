@@ -59,13 +59,13 @@
 
 ## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="40"> **GitHub Stats:**
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=esraa-gamall&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=esraa-gamall&show_icons=true&theme=github_dark&cache_seconds=86400" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraa-gamall&theme=github_dark&layout=compact&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraa-gamall&layout=compact&theme=github_dark" height="170"/>
 
-</div>
+</p>
 # 📊 GitHub Metrics Dashboard
 
 <p align="center">
