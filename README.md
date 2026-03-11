@@ -59,6 +59,17 @@
 
 ---
 
+## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="40"> **Github Stats:**
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=esraa-gamall&theme=github_dark&show_icons=true&include_all_commits=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraa-gamall&theme=github_dark&layout=compact&langs_count=8" width="48%" />
+
+</p>
+
+
 # 📊 GitHub Metrics Dashboard
 
 <p align="center">
