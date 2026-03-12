@@ -25,7 +25,23 @@
 - 📍 Following **ProgrammingAdvices Development Roadmap**
 
 ---
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Connect with me:**
 
+<p align="center">
+
+<a href="https://www.linkedin.com/in/esraa-gamal" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:esraa.gamal.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://t.me/esraa_gamalll" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+</p>
 
 
 ---
