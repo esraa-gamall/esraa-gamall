@@ -1,6 +1,29 @@
 
 <!-- HEADER / WELCOME -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&text=HelloWorld%20👋,%20I'm%20Esraa%20Gamal&fontSize=30&fontAlignY=80&color=gradient&customColorList=16" alt="HelloWorld 👋, I'm Esraa Gamal" />
 
+<hr></hr>
+
+<!-- MASTER IMAGE -->
+![MasterHead](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
+<!-- ABOUT ME -->
+**.NET / ASP.NET Developer passionate about building efficient, scalable, and maintainable software solutions. Currently focused on backend development using C#, .NET, and SQL Server while continuously improving my problem-solving and software design skills.**
+
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=esraa-gamall&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> 
+</p>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+
+<img width="30%" align="right" src="https://github.com/user-attachments/assets/46bfd91c-3b53-4429-abb4-0165a03b693c" alt="coding-animation" />
+
+- 💬 Ask me about **C++, OOP, Data Structures, Algorithms & Problem Solving**
+- 🌱 Currently learning **Advanced C#, .NET, SQL Server, Desktop & Web Development**
+- 🎯 Goal: **Becoming a professional Software Developer**
+- ❤️ Passionate about coding and exploring new technologies
+- ⚡ Fun fact: **I enjoy solving complex and challenging problems 💡**
+- 📍 Following **ProgrammingAdvices Development Roadmap**
 
 ---
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Connect with me:**
